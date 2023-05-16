@@ -50,7 +50,7 @@ table {
 
 
 /* Write your css below here */
-}
+
 
 header > img {
     width: 200px;
@@ -176,12 +176,13 @@ footer {
     background-color: #cb2626;
     display: flex;
     flex-flow: column wrap;
-    align-items: flex-start;
+    align-items: center;
     justify-content: center;
 }
 
 footer p {
     margin-left: 0.8rem;
+    text-align: center;
 }
 
 .tablet-content p {
